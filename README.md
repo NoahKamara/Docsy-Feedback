@@ -11,7 +11,7 @@ This repository serves as a centralized location for users to submit feedback, r
 To submit your feedback, please follow these steps:
 
 1. Go to the Issues page of this repository.
-2. Click on the "New Issue" button.
+2. Click on the "[New Issue](https://github.com/NoahKamara/Docsy-Feedback/issues/new/choose)" button.
 3. Choose the appropriate issue template (if available) or create a blank issue.
 4. Provide a clear and concise title for your feedback.
 5. In the description, include:
@@ -25,9 +25,9 @@ To submit your feedback, please follow these steps:
 
 We welcome various types of feedback, including:
 
-- [Bug reports]()
-- [Accessibility concerns]()
-- [Feature requests]()
+- [Bug reports](https://github.com/NoahKamara/Docsy-Feedback/issues/new?template=bug_report.md)
+- [Accessibility concerns](https://github.com/NoahKamara/Docsy-Feedback/issues/new?template=accessibility-concern.md)
+- [Feature requests](https://github.com/NoahKamara/Docsy-Feedback/issues/new?template=feature_request.md)
 
 ## Guidelines for Effective Feedback
 
